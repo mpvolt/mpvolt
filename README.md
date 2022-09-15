@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matt
+- 👋 Hi, I’m Matt. I'm 25 years old and I'm a software engineer.
 - 👀 I’m interested in Blockchain Technology and Cryptocurrency
 - 🌱 I’m currently learning Golang at the moment by reading Head First Go. Once I finish, I will move on to learning the Cosmos SDK, an sdk for a blockchain interoperabiliy protocal that I'm very interested in. Once I've built my first Cosmos app, I will start learning Rust and continue to built on other platforms like Solana and Matic/Polygon
 - 💞️ I’m looking for my first job in the blockchain/crypto space 
