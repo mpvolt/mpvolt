@@ -4,9 +4,9 @@
 
 🌱 I’m currently learning Golang and Rust by building my first Cosmos app with the Cosmos SDK and CosmWasm. Afterward, I will continue learning Rust and expand my expertise to other platforms like Solana and Matic/Polygon.
 
-🔒 Some of my web3 projects are set to private but showcase advanced blockchain development, including smart contracts, decentralized applications, and on-chain data solutions.
+🔒 Some of my web3 projects are set to private but showcase advanced blockchain development, including smart contracts, decentralized applications, and on-chain data solutions. Message me if you'd like access to them
 
-📫 How to reach me: 443-745-8242
+📫 How to reach me: +1 443-745-8242
 
 
 <!---
